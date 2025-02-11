@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji"  />
+</div>
 
-<!--
-**luascfl/luascfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luascfl.luascfl&"  />
+</div>
+
+###
+
+<h1 align="center">Olá!</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Sou Lucas Camilo, estudante de psicologia, entusiasta de tecnologia que pretende disponibilizar códigos (geralmente feitos com assistência de IA) para facilitar a rotina e a produtividade do nosso dia a dia. <br>- 📚 Atualmente estou no segundo semestre da faculdade, aprendendo bastante e me encontrando no organizacional. <br>- ⚡ No meu tempo livre eu caminho, converso com os amigos e vejo séries. </p>
+
+###
+
+<h3 align="left">🔥   Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=luascfl&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
