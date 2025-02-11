@@ -4,7 +4,7 @@
 
 ###
 
-<div style="text-align: center;">
+<div style="text-align="center;">
   <a href="https://linkedin.com/in/lucascamiloc" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
